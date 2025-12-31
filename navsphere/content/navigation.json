@@ -12,22 +12,6 @@
           "description": "",
           "icon": "/assets/favicon_1767148200886.png",
           "enabled": true
-        },
-        {
-          "id": "site_1767149035246_mryetee3f",
-          "title": "好礼多多（新）",
-          "href": "https://ysmapp.bj.10086.cn/app/channel-web/busiCore/showCustomIndex.action?submitWarePackageId=A1000529&channel=app_share&code=WWFZY000218&empCode=WWFZY000218&nbc=ccdc42a6aa963d356d610e788fbe556a",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ysmapp.bj.10086.cn",
-          "enabled": true
-        },
-        {
-          "id": "site_1767149072898_16gg17orc",
-          "title": "全球通20年网龄感恩回馈活动",
-          "href": "https://dev.coc.10086.cn/coc/web6/ageFeedPackage/?pageId=1889487239237201920&channelId=P00000037850",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dev.coc.10086.cn",
-          "enabled": true
         }
       ],
       "subCategories": [],
@@ -94,6 +78,14 @@
           "title": "北京电信 签到送流量 ",
           "href": "https://wapbj.189.cn/wap2017/index/preDepositHighPic_check.html?campaignId=1660525908105920&version=V1",
           "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wapbj.189.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_1767149493628_tzk4hlabc",
+          "title": "北京电信量子回馈",
+          "href": "https://wapbj.189.cn/echnwap/preDepositHigh_login?campaignId=17310293134579136&version=V1",
+          "description": "短信流量二选一，0元10G",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=wapbj.189.cn",
           "enabled": true
         }
