@@ -36,6 +36,14 @@
           "description": "",
           "icon": "/assets/favicon_1767150002262.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767150085578_xwqj0ok5m",
+          "title": "18元宽带提速包",
+          "href": "https://ysmapp.bj.10086.cn/app/channel-web/marketArea/showIndexKDTSYB.action?submitWarePackageId=A1000090&channel=app_share&code=WWCE120795&empCode=WWCE120795&nbc=2ecb77f190ffa366156e5f7432964ca7",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ysmapp.bj.10086.cn",
+          "enabled": true
         }
       ],
       "subCategories": [],
