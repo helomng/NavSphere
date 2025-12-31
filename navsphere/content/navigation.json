@@ -106,6 +106,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=pms.189.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1767148788260_xrg8qfn73",
+          "title": "移动撤单链接",
+          "href": "https://dev.coc.10086.cn/coc/web/coc2020/cardqueryorder/ ",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dev.coc.10086.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
