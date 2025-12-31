@@ -60,6 +60,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=xyw.bj.10086.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1767150365228_ta38igm0c",
+          "title": "北京移动",
+          "href": "https://service.bj.10086.cn/nwt/portal/showIndex?activityName=3CPOK2Yf",
+          "description": "北京移动返费明细查询",
+          "icon": "/assets/favicon_1767150343721.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
