@@ -44,6 +44,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=ysmapp.bj.10086.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1767150121916_kvz7iapdn",
+          "title": "青春周卡",
+          "href": "https://h5.bj.10086.cn/cmcc_vact/young-zone/index.html#/",
+          "description": "可以领地铁卡",
+          "icon": "/assets/favicon_1767150097986.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
