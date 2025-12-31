@@ -12,6 +12,14 @@
           "description": "必须云宽带用户",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=mop.bmcc.com.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1767148215813_bd5mubrxg",
+          "title": "全球通成长值查询",
+          "href": "https://qqt.cmicrwx.cn/2016tyjf/xhmqqthy/res/wap/growUpLv.html",
+          "description": "",
+          "icon": "/assets/favicon_1767148200886.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
@@ -131,14 +139,6 @@
       "description": "",
       "enabled": true,
       "items": [
-        {
-          "id": "site_1767148215813_bd5mubrxg",
-          "title": "全球通成长值",
-          "href": "https://qqt.cmicrwx.cn/2016tyjf/xhmqqthy/res/wap/growUpLv.html",
-          "description": "",
-          "icon": "/assets/favicon_1767148200886.png",
-          "enabled": true
-        },
         {
           "id": "site_1767149651453_72cbbsaur",
           "title": "无合约改8元套餐",
