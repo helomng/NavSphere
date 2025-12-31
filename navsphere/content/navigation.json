@@ -12,6 +12,14 @@
           "description": "",
           "icon": "/assets/favicon_1767148200886.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767149651453_72cbbsaur",
+          "title": "无合约改8元套餐",
+          "href": "https://service.bj.10086.cn/m/initMobilePro/initMPro8y4gData.action",
+          "description": "",
+          "icon": "/assets/favicon_1767149637880.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
