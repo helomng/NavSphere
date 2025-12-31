@@ -6,14 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "site_1767150684345_f3g8s5i86",
-          "title": "体验官专属权益",
-          "href": "https://service.bj.10086.cn/m/mPersonBusi/InitTYProData.action",
-          "description": "每月3G",
-          "icon": "/assets/favicon_1767150667113.png",
-          "enabled": true
-        },
-        {
           "id": "site_1767150714341_zvrde1jep",
           "title": "AI潮智包(尝鲜版)",
           "href": "https://h.app.coc.10086.cn/cmcc-app/app-pages/mZoneCard.html",
@@ -209,6 +201,14 @@
           "href": "https://service.bj.10086.cn/nwt/portal/showIndex?activityName=3CPOK2Yf",
           "description": "北京移动返费明细查询",
           "icon": "/assets/favicon_1767150343721.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1767150684345_f3g8s5i86",
+          "title": "体验官专属权益",
+          "href": "https://service.bj.10086.cn/m/mPersonBusi/InitTYProData.action",
+          "description": "每月3G",
+          "icon": "/assets/favicon_1767150667113.png",
           "enabled": true
         }
       ],
