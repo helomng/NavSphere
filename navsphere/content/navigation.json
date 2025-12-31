@@ -20,6 +20,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=ysmapp.bj.10086.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1767149072898_16gg17orc",
+          "title": "全球通20年网龄感恩回馈活动",
+          "href": "https://dev.coc.10086.cn/coc/web6/ageFeedPackage/?pageId=1889487239237201920&channelId=P00000037850",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dev.coc.10086.cn",
+          "enabled": true
         }
       ],
       "subCategories": [],
