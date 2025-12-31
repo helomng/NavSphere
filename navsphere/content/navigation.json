@@ -6,14 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "site_1767150714341_zvrde1jep",
-          "title": "AI潮智包(尝鲜版)",
-          "href": "https://h.app.coc.10086.cn/cmcc-app/app-pages/mZoneCard.html",
-          "description": "5G新通话-点亮屏幕、趣味通话",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=h.app.coc.10086.cn",
-          "enabled": true
-        },
-        {
           "id": "site_1767150844438_qb3znlz3h",
           "title": "四屏视频会员领取",
           "href": "https://mop.bmcc.com.cn/order-fusion/pages/html/fusion/#/",
@@ -209,6 +201,14 @@
           "href": "https://service.bj.10086.cn/m/mPersonBusi/InitTYProData.action",
           "description": "每月3G",
           "icon": "/assets/favicon_1767150667113.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1767150714341_zvrde1jep",
+          "title": "AI潮智包(尝鲜版)",
+          "href": "https://h.app.coc.10086.cn/cmcc-app/app-pages/mZoneCard.html",
+          "description": "5G新通话-点亮屏幕、趣味通话",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=h.app.coc.10086.cn",
           "enabled": true
         }
       ],
