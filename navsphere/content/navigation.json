@@ -76,6 +76,14 @@
           "description": "每月3G",
           "icon": "/assets/favicon_1767150667113.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767150714341_zvrde1jep",
+          "title": "AI潮智包(尝鲜版)",
+          "href": "https://h.app.coc.10086.cn/cmcc-app/app-pages/mZoneCard.html",
+          "description": "5G新通话-点亮屏幕、趣味通话",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=h.app.coc.10086.cn",
+          "enabled": true
         }
       ],
       "subCategories": [],
