@@ -83,6 +83,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1767148734786",
+      "title": "其他",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
