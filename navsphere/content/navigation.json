@@ -84,6 +84,14 @@
           "description": "5G新通话-点亮屏幕、趣味通话",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=h.app.coc.10086.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1767150844438_qb3znlz3h",
+          "title": "四屏视频会员领取",
+          "href": "https://mop.bmcc.com.cn/order-fusion/pages/html/fusion/#/",
+          "description": "必须云宽带用户",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=mop.bmcc.com.cn",
+          "enabled": true
         }
       ],
       "subCategories": [],
