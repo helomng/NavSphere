@@ -19,6 +19,96 @@
       "enabled": true
     },
     {
+      "id": "1767150974946",
+      "title": "北京移动",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1767149651453_72cbbsaur",
+          "title": "无合约改8元套餐",
+          "href": "https://service.bj.10086.cn/m/initMobilePro/initMPro8y4gData.action",
+          "description": "",
+          "icon": "/assets/favicon_1767149637880.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1767150021355_72funvhlf",
+          "title": "权益超市快捷入口",
+          "href": "https://dx.10086.cn/jOyIGQ",
+          "description": "",
+          "icon": "/assets/favicon_1767150002262.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1767149829278_t3gp5knwp",
+          "title": "北京移动惠生活",
+          "href": "https://nhsh.12580.com/h5/pages/index/login?redirect_url=https%253A%252F%252Fnhsh.12580.com%252Fh5%252F",
+          "description": "10元优惠包",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=nhsh.12580.com",
+          "enabled": true
+        },
+        {
+          "id": "site_1767150085578_xwqj0ok5m",
+          "title": "18元宽带提速包",
+          "href": "https://ysmapp.bj.10086.cn/app/channel-web/marketArea/showIndexKDTSYB.action?submitWarePackageId=A1000090&channel=app_share&code=WWCE120795&empCode=WWCE120795&nbc=2ecb77f190ffa366156e5f7432964ca7",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ysmapp.bj.10086.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_1767150121916_kvz7iapdn",
+          "title": "青春周卡",
+          "href": "https://h5.bj.10086.cn/cmcc_vact/young-zone/index.html#/",
+          "description": "可以领地铁卡",
+          "icon": "/assets/favicon_1767150097986.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1767150212302_v5osjqe7x",
+          "title": "咪咕视频0元年包",
+          "href": "https://xyw.bj.10086.cn/static/pages/vgop/mkt/#/miguVideoYear",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=xyw.bj.10086.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_1767150365228_ta38igm0c",
+          "title": "北京移动",
+          "href": "https://service.bj.10086.cn/nwt/portal/showIndex?activityName=3CPOK2Yf",
+          "description": "北京移动返费明细查询",
+          "icon": "/assets/favicon_1767150343721.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1767150684345_f3g8s5i86",
+          "title": "体验官专属权益",
+          "href": "https://service.bj.10086.cn/m/mPersonBusi/InitTYProData.action",
+          "description": "每月3G",
+          "icon": "/assets/favicon_1767150667113.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1767150714341_zvrde1jep",
+          "title": "AI潮智包(尝鲜版)",
+          "href": "https://h.app.coc.10086.cn/cmcc-app/app-pages/mZoneCard.html",
+          "description": "5G新通话-点亮屏幕、趣味通话",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=h.app.coc.10086.cn",
+          "enabled": true
+        },
+        {
+          "id": "site_1767148215813_bd5mubrxg",
+          "title": "全球通成长值查询",
+          "href": "https://qqt.cmicrwx.cn/2016tyjf/xhmqqthy/res/wap/growUpLv.html",
+          "description": "",
+          "icon": "/assets/favicon_1767148200886.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1767148329105",
       "title": "北京电信",
       "icon": "Cloud",
@@ -119,96 +209,6 @@
           "href": "https://yxai.189.cn/bloc-uni/pages/opportunity/business?actNo=IACT2025112104568&temp=opportunityTerminal&pcode=bj",
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=yxai.189.cn",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1767150974946",
-      "title": "北京移动",
-      "icon": "Home",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1767149651453_72cbbsaur",
-          "title": "无合约改8元套餐",
-          "href": "https://service.bj.10086.cn/m/initMobilePro/initMPro8y4gData.action",
-          "description": "",
-          "icon": "/assets/favicon_1767149637880.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1767150021355_72funvhlf",
-          "title": "权益超市快捷入口",
-          "href": "https://dx.10086.cn/jOyIGQ",
-          "description": "",
-          "icon": "/assets/favicon_1767150002262.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1767149829278_t3gp5knwp",
-          "title": "北京移动惠生活",
-          "href": "https://nhsh.12580.com/h5/pages/index/login?redirect_url=https%253A%252F%252Fnhsh.12580.com%252Fh5%252F",
-          "description": "10元优惠包",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=nhsh.12580.com",
-          "enabled": true
-        },
-        {
-          "id": "site_1767150085578_xwqj0ok5m",
-          "title": "18元宽带提速包",
-          "href": "https://ysmapp.bj.10086.cn/app/channel-web/marketArea/showIndexKDTSYB.action?submitWarePackageId=A1000090&channel=app_share&code=WWCE120795&empCode=WWCE120795&nbc=2ecb77f190ffa366156e5f7432964ca7",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ysmapp.bj.10086.cn",
-          "enabled": true
-        },
-        {
-          "id": "site_1767150121916_kvz7iapdn",
-          "title": "青春周卡",
-          "href": "https://h5.bj.10086.cn/cmcc_vact/young-zone/index.html#/",
-          "description": "可以领地铁卡",
-          "icon": "/assets/favicon_1767150097986.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1767150212302_v5osjqe7x",
-          "title": "咪咕视频0元年包",
-          "href": "https://xyw.bj.10086.cn/static/pages/vgop/mkt/#/miguVideoYear",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=xyw.bj.10086.cn",
-          "enabled": true
-        },
-        {
-          "id": "site_1767150365228_ta38igm0c",
-          "title": "北京移动",
-          "href": "https://service.bj.10086.cn/nwt/portal/showIndex?activityName=3CPOK2Yf",
-          "description": "北京移动返费明细查询",
-          "icon": "/assets/favicon_1767150343721.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_1767150684345_f3g8s5i86",
-          "title": "体验官专属权益",
-          "href": "https://service.bj.10086.cn/m/mPersonBusi/InitTYProData.action",
-          "description": "每月3G",
-          "icon": "/assets/favicon_1767150667113.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1767150714341_zvrde1jep",
-          "title": "AI潮智包(尝鲜版)",
-          "href": "https://h.app.coc.10086.cn/cmcc-app/app-pages/mZoneCard.html",
-          "description": "5G新通话-点亮屏幕、趣味通话",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=h.app.coc.10086.cn",
-          "enabled": true
-        },
-        {
-          "id": "site_1767148215813_bd5mubrxg",
-          "title": "全球通成长值查询",
-          "href": "https://qqt.cmicrwx.cn/2016tyjf/xhmqqthy/res/wap/growUpLv.html",
-          "description": "",
-          "icon": "/assets/favicon_1767148200886.png",
           "enabled": true
         }
       ],
