@@ -114,6 +114,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dev.coc.10086.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1767148807904_8bg9xvmd9",
+          "title": "广电撤单链接",
+          "href": "https://card.wi-fi.cn/tools/gd-cancel-order",
+          "description": "",
+          "icon": "/assets/favicon_1767148789029.png",
+          "enabled": true
         }
       ],
       "subCategories": []
