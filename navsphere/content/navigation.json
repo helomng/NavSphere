@@ -205,6 +205,15 @@
       "subCategories": []
     },
     {
+      "id": "1767150974946",
+      "title": "北京移动",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1767148734786",
       "title": "其他",
       "icon": "FolderOpen",
@@ -244,15 +253,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1767150974946",
-      "title": "北京移动",
-      "icon": "Home",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
