@@ -40,6 +40,14 @@
           "description": "访问 wapbj.189.cn",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=wapbj.189.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1767148594563_n8qhi3f4j",
+          "title": "北京电信充值礼",
+          "href": "https://wapbj.189.cn/wap2017/index/preDepositHighPic_check.html?campaignId=16230490916745301&version=V1 ",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wapbj.189.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
