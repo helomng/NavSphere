@@ -12,6 +12,14 @@
           "description": "",
           "icon": "/assets/favicon_1767148200886.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767149035246_mryetee3f",
+          "title": "好礼多多（新）",
+          "href": "https://ysmapp.bj.10086.cn/app/channel-web/busiCore/showCustomIndex.action?submitWarePackageId=A1000529&channel=app_share&code=WWFZY000218&empCode=WWFZY000218&nbc=ccdc42a6aa963d356d610e788fbe556a",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ysmapp.bj.10086.cn",
+          "enabled": true
         }
       ],
       "subCategories": [],
