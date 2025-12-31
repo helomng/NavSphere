@@ -245,6 +245,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1767150974946",
+      "title": "北京移动",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
