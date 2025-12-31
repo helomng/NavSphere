@@ -104,6 +104,14 @@
           "description": "0元2G",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=wapbj.189.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1767149596261_l8a6wuka2",
+          "title": "成长礼",
+          "href": "https://wapbj.189.cn/echnwap/preDepositHigh_login?campaignId=17310293134579136&version=V1",
+          "description": "每月活动",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wapbj.189.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
