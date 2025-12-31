@@ -6,14 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "site_1767150085578_xwqj0ok5m",
-          "title": "18元宽带提速包",
-          "href": "https://ysmapp.bj.10086.cn/app/channel-web/marketArea/showIndexKDTSYB.action?submitWarePackageId=A1000090&channel=app_share&code=WWCE120795&empCode=WWCE120795&nbc=2ecb77f190ffa366156e5f7432964ca7",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ysmapp.bj.10086.cn",
-          "enabled": true
-        },
-        {
           "id": "site_1767150121916_kvz7iapdn",
           "title": "青春周卡",
           "href": "https://h5.bj.10086.cn/cmcc_vact/young-zone/index.html#/",
@@ -209,6 +201,14 @@
           "href": "https://nhsh.12580.com/h5/pages/index/login?redirect_url=https%253A%252F%252Fnhsh.12580.com%252Fh5%252F",
           "description": "10元优惠包",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=nhsh.12580.com",
+          "enabled": true
+        },
+        {
+          "id": "site_1767150085578_xwqj0ok5m",
+          "title": "18元宽带提速包",
+          "href": "https://ysmapp.bj.10086.cn/app/channel-web/marketArea/showIndexKDTSYB.action?submitWarePackageId=A1000090&channel=app_share&code=WWCE120795&empCode=WWCE120795&nbc=2ecb77f190ffa366156e5f7432964ca7",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ysmapp.bj.10086.cn",
           "enabled": true
         }
       ],
