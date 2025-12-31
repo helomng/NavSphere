@@ -128,6 +128,14 @@
           "description": "每月活动",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=wapbj.189.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1767149979908_tvkgph9m5",
+          "title": "机顶盒换新预约",
+          "href": "https://yxai.189.cn/bloc-uni/pages/opportunity/business?actNo=IACT2025112104568&temp=opportunityTerminal&pcode=bj",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=yxai.189.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
