@@ -88,6 +88,14 @@
           "description": "短信流量二选一，0元10G",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=wapbj.189.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1767149524487_8v46h9zm0",
+          "title": "签到送流量",
+          "href": "https://wapbj.189.cn/echnwap/preDepositHigh_login?campaignId=17310293134579136&version=V1",
+          "description": "每月5G",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wapbj.189.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
