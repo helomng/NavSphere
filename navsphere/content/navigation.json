@@ -14,14 +14,6 @@
           "enabled": true
         },
         {
-          "id": "site_1767150021355_72funvhlf",
-          "title": "权益超市快捷入口",
-          "href": "https://dx.10086.cn/jOyIGQ",
-          "description": "",
-          "icon": "/assets/favicon_1767150002262.png",
-          "enabled": true
-        },
-        {
           "id": "site_1767150085578_xwqj0ok5m",
           "title": "18元宽带提速包",
           "href": "https://ysmapp.bj.10086.cn/app/channel-web/marketArea/showIndexKDTSYB.action?submitWarePackageId=A1000090&channel=app_share&code=WWCE120795&empCode=WWCE120795&nbc=2ecb77f190ffa366156e5f7432964ca7",
@@ -209,6 +201,14 @@
           "href": "https://service.bj.10086.cn/m/initMobilePro/initMPro8y4gData.action",
           "description": "",
           "icon": "/assets/favicon_1767149637880.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1767150021355_72funvhlf",
+          "title": "权益超市快捷入口",
+          "href": "https://dx.10086.cn/jOyIGQ",
+          "description": "",
+          "icon": "/assets/favicon_1767150002262.png",
           "enabled": true
         }
       ],
