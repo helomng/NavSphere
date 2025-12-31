@@ -52,6 +52,14 @@
           "description": "可以领地铁卡",
           "icon": "/assets/favicon_1767150097986.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767150212302_v5osjqe7x",
+          "title": "咪咕视频0元年包",
+          "href": "https://xyw.bj.10086.cn/static/pages/vgop/mkt/#/miguVideoYear",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=xyw.bj.10086.cn",
+          "enabled": true
         }
       ],
       "subCategories": [],
