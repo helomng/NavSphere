@@ -98,6 +98,14 @@
           "description": "访问 m.10010.com",
           "icon": "/assets/favicon_1767148739432.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767148773601_u7a74y55a",
+          "title": "电信撤单链接",
+          "href": "https://pms.189.cn/cljy-web/static/xshkzzfw/xshkzzfw_index.html?shopid=dq-hkddcx-jd&cmpid=dq-hkddcx-jd&t=2021042708",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pms.189.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
