@@ -4,7 +4,16 @@
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1767148215813_bd5mubrxg",
+          "title": "全球通成长值",
+          "href": "https://qqt.cmicrwx.cn/2016tyjf/xhmqqthy/res/wap/growUpLv.html",
+          "description": "",
+          "icon": "/assets/favicon_1767148200886.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [],
       "description": "",
       "enabled": true
