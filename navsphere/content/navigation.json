@@ -6,14 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "site_1767149651453_72cbbsaur",
-          "title": "无合约改8元套餐",
-          "href": "https://service.bj.10086.cn/m/initMobilePro/initMPro8y4gData.action",
-          "description": "",
-          "icon": "/assets/favicon_1767149637880.png",
-          "enabled": true
-        },
-        {
           "id": "site_1767149829278_t3gp5knwp",
           "title": "北京移动惠生活",
           "href": "https://nhsh.12580.com/h5/pages/index/login?redirect_url=https%253A%252F%252Fnhsh.12580.com%252Fh5%252F",
@@ -209,6 +201,14 @@
           "href": "https://qqt.cmicrwx.cn/2016tyjf/xhmqqthy/res/wap/growUpLv.html",
           "description": "",
           "icon": "/assets/favicon_1767148200886.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1767149651453_72cbbsaur",
+          "title": "无合约改8元套餐",
+          "href": "https://service.bj.10086.cn/m/initMobilePro/initMPro8y4gData.action",
+          "description": "",
+          "icon": "/assets/favicon_1767149637880.png",
           "enabled": true
         }
       ],
