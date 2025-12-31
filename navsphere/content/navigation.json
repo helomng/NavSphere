@@ -90,7 +90,16 @@
       "icon": "FolderOpen",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1767148752668_h2o8epw81",
+          "title": "联通撤单链接",
+          "href": "https://m.10010.com/myorder",
+          "description": "访问 m.10010.com",
+          "icon": "/assets/favicon_1767148739432.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
