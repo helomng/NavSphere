@@ -17,6 +17,15 @@
       "subCategories": [],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1767148329105",
+      "title": "北京电信",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
