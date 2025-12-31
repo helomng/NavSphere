@@ -28,6 +28,14 @@
           "description": "10元优惠包",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=nhsh.12580.com",
           "enabled": true
+        },
+        {
+          "id": "site_1767150021355_72funvhlf",
+          "title": "权益超市快捷入口",
+          "href": "https://dx.10086.cn/jOyIGQ",
+          "description": "",
+          "icon": "/assets/favicon_1767150002262.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
