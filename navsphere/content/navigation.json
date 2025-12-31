@@ -20,6 +20,14 @@
           "description": "",
           "icon": "/assets/favicon_1767149637880.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767149829278_t3gp5knwp",
+          "title": "北京移动惠生活",
+          "href": "https://nhsh.12580.com/h5/pages/index/login?redirect_url=https%253A%252F%252Fnhsh.12580.com%252Fh5%252F",
+          "description": "10元优惠包",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=nhsh.12580.com",
+          "enabled": true
         }
       ],
       "subCategories": [],
