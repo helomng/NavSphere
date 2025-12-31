@@ -24,7 +24,16 @@
       "icon": "Cloud",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1767148555656_z5l9khlwu",
+          "title": " 北京电信网龄礼",
+          "href": "https://wapbj.189.cn/echnwap/preDepositHigh_login?campaignId=17144433318773256&version=V1 ",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wapbj.189.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
