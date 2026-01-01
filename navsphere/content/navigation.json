@@ -168,6 +168,14 @@
           "description": "620元/2年，1000M+IPTV",
           "icon": "/assets/favicon_1767245682046.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1767245760178_x6koweenk",
+          "title": "北京移动5G升舱",
+          "href": "https://service.bj.10086.cn/nwt/portal/checkLogin?artifact=-1&backUrl=https%3A%2F%2Fservice.bj.10086.cn%2Fnwt%2Fportal%2F5gPackageTrafficDouble%3Fssotouch2017%3D0",
+          "description": "",
+          "icon": "/assets/favicon_1767245735252.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
