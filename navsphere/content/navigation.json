@@ -106,7 +106,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "ad2324b4-325e-4c02-8a56-67cdeade4284",
+          "title": "短信测试",
+          "icon": "MessageSquare",
+          "description": "测试短信草稿功能",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1767148329105",
