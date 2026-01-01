@@ -144,6 +144,14 @@
           "description": "",
           "icon": "/assets/favicon_1767245524210.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767245581404_ln97dimvs",
+          "title": "北京移动乐享礼包",
+          "href": "https://service.bj.10086.cn/nwt/portal/checkLogin?artifact=-1&backUrl=https%3A%2F%2Fservice.bj.10086.cn%2Fnwt%2Fportal%2FhlxproPageTip%3Fssotouch2017%3D0",
+          "description": "",
+          "icon": "/assets/favicon_1767245552379.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
