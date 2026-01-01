@@ -136,6 +136,14 @@
           "description": "",
           "icon": "/assets/favicon_1767245502936.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767245551473_jj76k4kej",
+          "title": "移动优选礼遇",
+          "href": "https://login.10086.cn/html/bj/touch.html?channelID=21100&backUrl=https%3A%2F%2Fservice.bj.10086.cn%2Fnwt%2Fportal%2FsjbspbzFW%3Fssotouch2017%3D0",
+          "description": "",
+          "icon": "/assets/favicon_1767245524210.png",
+          "enabled": true
         }
       ],
       "subCategories": [
