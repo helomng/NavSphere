@@ -104,6 +104,14 @@
           "description": "",
           "icon": "/assets/favicon_1767148200886.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767245242037_fzhc8fsjq",
+          "title": "移动3元话费",
+          "href": "https://wx.10086.cn/qwhdhub/diy-client/1125121383?A_C_CODE=hVXu8J1Ai5",
+          "description": "3元话费或者10G流量",
+          "icon": "/assets/favicon_1767245172219.png",
+          "enabled": true
         }
       ],
       "subCategories": [
