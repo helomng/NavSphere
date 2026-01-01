@@ -112,6 +112,14 @@
           "description": "3元话费或者10G流量",
           "icon": "/assets/favicon_1767245172219.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767245409060_uukw5wis4",
+          "title": "点亮小福星",
+          "href": "https://login.10086.cn/html/bj/touch.html?channelID=21100&backUrl=https%3A%2F%2Fservice.bj.10086.cn%2Fnwt%2Fportal%2FmoveWelfareTips%3Fssotouch2017%3D0",
+          "description": "",
+          "icon": "/assets/favicon_1767245382046.png",
+          "enabled": true
         }
       ],
       "subCategories": [
