@@ -160,6 +160,14 @@
           "description": "",
           "icon": "/assets/favicon_1767245611907.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1767245725498_with0k7n5",
+          "title": "北京移动爱家千兆宽带",
+          "href": "https://service.bj.10086.cn/nwt/portal/sxyzkForm",
+          "description": "620元/2年，1000M+IPTV",
+          "icon": "/assets/favicon_1767245682046.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
