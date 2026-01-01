@@ -152,6 +152,14 @@
           "description": "",
           "icon": "/assets/favicon_1767245552379.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1767245642911_ubex9nfuk",
+          "title": "全家组团低消活动",
+          "href": "https://service.bj.10086.cn/nwt/portal/loveHome",
+          "description": "",
+          "icon": "/assets/favicon_1767245611907.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
