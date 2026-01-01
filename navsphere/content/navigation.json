@@ -128,6 +128,14 @@
           "description": "",
           "icon": "/assets/favicon_1767245422790.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767245527866_i2yt5alhc",
+          "title": "套餐随心计划",
+          "href": "https://login.10086.cn/html/bj/touch.html?channelID=21100&backUrl=https%3A%2F%2Fservice.bj.10086.cn%2Fnwt%2Fportal%2FtcsxProduct%3Fssotouch2017%3D0",
+          "description": "",
+          "icon": "/assets/favicon_1767245502936.png",
+          "enabled": true
         }
       ],
       "subCategories": [
