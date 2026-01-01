@@ -120,6 +120,14 @@
           "description": "",
           "icon": "/assets/favicon_1767245382046.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767245453880_c7popo1jd",
+          "title": "承诺低消送Plus",
+          "href": "https://login.10086.cn/html/bj/touch.html?channelID=21100&backUrl=https%3A%2F%2Fservice.bj.10086.cn%2Fnwt%2Fportal%2FminisalefellowError%3Fssotouch2017%3D0",
+          "description": "",
+          "icon": "/assets/favicon_1767245422790.png",
+          "enabled": true
         }
       ],
       "subCategories": [
