@@ -350,6 +350,14 @@
           "description": "",
           "icon": "/assets/favicon_1767148789029.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767687553026_ibpxk10ip",
+          "title": "移动套餐大全",
+          "href": "https://h.app.coc.10086.cn/cmcc-app/pc-pages/tariffZonePers.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=h.app.coc.10086.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
