@@ -176,6 +176,14 @@
           "description": "",
           "icon": "/assets/favicon_1767245735252.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1767686457222_uuuwue78w",
+          "title": "移动资费大全",
+          "href": "https://h.app.coc.10086.cn/cmcc-app/pc-pages/tariffZonePers.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=h.app.coc.10086.cn",
+          "enabled": true
         }
       ],
       "subCategories": [
