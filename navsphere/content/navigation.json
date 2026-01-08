@@ -184,6 +184,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=h.app.coc.10086.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1767244856604_vf1qm7gjc",
+          "title": "50AI豆换10短信",
+          "href": "sms:10086?&body=1283",
+          "description": "访问 ",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -193,16 +201,7 @@
           "icon": "MessageSquare",
           "description": "测试短信草稿功能",
           "enabled": true,
-          "items": [
-            {
-              "id": "site_1767244856604_vf1qm7gjc",
-              "title": "50AI豆换10短信",
-              "href": "sms:10086?&body=1283",
-              "description": "访问 ",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
