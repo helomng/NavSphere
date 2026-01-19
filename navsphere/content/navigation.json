@@ -12,6 +12,14 @@
           "description": "必须云宽带用户",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=mop.bmcc.com.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1768808268672_jba7ld9pp",
+          "title": "每月Plus权益兑换",
+          "href": "https://xcxp.bj.10086.cn/rights-front/dist/index.html#/jituan/greatnet?retailerCode=BJYDJTAPP001&sonRetailerCode=A004&sourceid=026041",
+          "description": "99Plus",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=xcxp.bj.10086.cn",
+          "enabled": true
         }
       ],
       "subCategories": [],
